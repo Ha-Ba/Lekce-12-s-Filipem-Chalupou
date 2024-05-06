@@ -4,6 +4,8 @@ color: white;}
 a {color: cyan;
 padding: 10px 15px;}
 
+ul {display: none;}
+
 footer {
     background-color: #525050;
     padding: 1rem;}
