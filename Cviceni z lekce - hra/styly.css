@@ -1,0 +1,11 @@
+body {background-color: black;
+color: white;}
+
+a {color: cyan;
+padding: 10px 15px;}
+
+footer {
+    background-color: #525050;
+    padding: 1rem;}
+
+.o-nas {background-color: rgb(6, 61, 243);}

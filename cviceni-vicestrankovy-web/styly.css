@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+    margin: 0 auto;
+    padding: 2rem;
+    color: black;
+    max-width: 40rem;
+
+}
+ul {display: none;}
+
+a:hover {
+    color: red;
+}
+
+header {
+    background-color: #abffc4;
+    padding: 1rem 0.5rem;
+}
+
+footer {
+    background-color: #959595;
+    padding: 10px 15px 10px 15px;
+}
+
+footer a {
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+    color: blue;
+    border: 1px dashed blue;
+    text-align: center;
+}
+
+h2 {color: black;}
